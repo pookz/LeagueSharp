@@ -1,0 +1,13 @@
+C:\Users\Rene\Desktop\LeagueSharp\Generation Jinx\bin\Release\Jinx.exe.config
+C:\Users\Rene\Desktop\LeagueSharp\Generation Jinx\bin\Release\Jinx.exe
+C:\Users\Rene\Desktop\LeagueSharp\Generation Jinx\bin\Release\Jinx.pdb
+C:\Users\Rene\Desktop\LeagueSharp\Generation Jinx\bin\Release\LeagueSharp.Common.dll
+C:\Users\Rene\Desktop\LeagueSharp\Generation Jinx\bin\Release\LeagueSharp.dll
+C:\Users\Rene\Desktop\LeagueSharp\Generation Jinx\bin\Release\SharpDX.dll
+C:\Users\Rene\Desktop\LeagueSharp\Generation Jinx\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Rene\Desktop\LeagueSharp\Generation Jinx\bin\Release\clipper_library.dll
+C:\Users\Rene\Desktop\LeagueSharp\Generation Jinx\bin\Release\LeagueSharp.Sandbox.dll
+C:\Users\Rene\Desktop\LeagueSharp\Generation Jinx\bin\Release\LeagueSharp.xml
+C:\Users\Rene\Desktop\LeagueSharp\Generation Jinx\obj\Debug\Generation Jinx.csprojResolveAssemblyReference.cache
+C:\Users\Rene\Desktop\LeagueSharp\Generation Jinx\obj\Debug\Jinx.exe
+C:\Users\Rene\Desktop\LeagueSharp\Generation Jinx\obj\Debug\Jinx.pdb

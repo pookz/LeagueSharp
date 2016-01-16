@@ -7,7 +7,7 @@
     <ProjectGuid>{1AA41CF9-0CBC-4A06-9A03-E688D76774EB}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Jinx_OneKeyToWin</RootNamespace>
+    <RootNamespace>Generation Jinx</RootNamespace>
     <AssemblyName>Jinx</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
